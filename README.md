@@ -11,11 +11,10 @@ In my free time, you can find me tinkering with new projects, trying out new des
 
 Thank you for visiting my profile. Feel free to check out my projects and let's connect!
 
-<br>
 
 ### ✣ Contact
 
 Feel free to contact me via <a style="color:#CBE245" href="mailto:this.is.arunava.b@gmail.com">email</a> or connect with me on <a style="color:#CBE245" href="mailto:this.is.arunava.b@gmail.com">LinkedIn</a>. I am always open to discussing potential job opportunities or collaborating on projects.
 
-<br>
+
 
