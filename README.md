@@ -4,9 +4,6 @@
 <span style="color:#CBE245">✦</span>
 </h1>
 
-<br>
-
-## ✐ About me
 
 Hello, I'm Arunava, a front-end developer passionate about creating beautiful and delightful web experiences. I am always looking to learn more and stay up-to-date with the latest technologies and best practices in web development.
 
