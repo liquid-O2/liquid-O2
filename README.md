@@ -1,7 +1,7 @@
 
 ## ✦  Welcome to my Profile 
 
-<br> 
+
 
 ### ✐ About me
 
