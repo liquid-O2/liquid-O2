@@ -5,7 +5,7 @@
 
 ### ✐ About me
 
-Hello, I'm [Arunava](https://arunava.dev), a front-end developer passionate about creating beautiful and delightful web experiences. I am always looking to learn more and stay up-to-date with the latest technologies and best practices in web development.
+Hello, I'm <a href="https://arunava.dev"> Arunava</a>, a front-end developer passionate about creating beautiful and delightful web experiences. I am always looking to learn more and stay up-to-date with the latest technologies and best practices in web development.
 
 In my free time, you can find me tinkering with new projects, trying out new designs in Figma, sipping a cup of green tea, or playing around with the latest web development frameworks.
 
