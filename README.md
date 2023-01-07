@@ -1,9 +1,9 @@
-<h1 style="text-align: center; border:none">
-<span style="color:#CBE245">✦</span>
- Welcome to my Profile 
-<span style="color:#CBE245">✦</span>
-</h1>
 
+## ✦  Welcome to my Profile 
+
+<br> 
+
+### ✐ About me
 
 Hello, I'm Arunava, a front-end developer passionate about creating beautiful and delightful web experiences. I am always looking to learn more and stay up-to-date with the latest technologies and best practices in web development.
 
@@ -13,7 +13,7 @@ Thank you for visiting my profile. Feel free to check out my projects and let's 
 
 <br>
 
-## ✉︎ Contact
+### ✣ Contact
 
 Feel free to contact me via <a style="color:#CBE245" href="mailto:this.is.arunava.b@gmail.com">email</a> or connect with me on <a style="color:#CBE245" href="mailto:this.is.arunava.b@gmail.com">LinkedIn</a>. I am always open to discussing potential job opportunities or collaborating on projects.
 
