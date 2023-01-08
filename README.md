@@ -5,9 +5,9 @@
 
 ### ✐ About me
 
-Hello, I'm <a href="https://arunava.dev"> Arunava</a>, a front-end developer passionate about creating beautiful and delightful web experiences. I am always looking to learn more and stay up-to-date with the latest technologies and best practices in web development.
+Hi there! I'm [Arunava Banerjee](arunava.dev), a front-end developer with a passion for crafting minimal and delightful web experiences. With a background in product design, I bring a unique perspective to my work, creating aesthetically pleasing websites and web apps that not only look great, but also function seamlessly. 
 
-In my free time, you can find me tinkering with new projects, trying out new designs in Figma, sipping a cup of green tea, or playing around with the latest web development frameworks.
+When I'm not coding, you can find me exploring new destinations, sipping on unique teas, and staying up-to-date on the hottest javascript frameworks. I'm always looking to push the boundaries and create something truly special in the digital world.
 
 Thank you for visiting my profile. Feel free to check out my projects and let's connect!
 
